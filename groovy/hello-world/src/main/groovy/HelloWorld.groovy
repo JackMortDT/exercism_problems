@@ -1,7 +1,5 @@
 class HelloWorld {
-
-    def hello() {
-        'Goodbye, Mars!'
-    }
-
+  String hello() {
+    'Hello, World!'
+  }
 }
